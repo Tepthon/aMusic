@@ -47,7 +47,7 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": true,
-            "value": "faqek"
+            "value": "Tepthon_Support"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
@@ -57,7 +57,7 @@
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": true,
-            "value": "P17_13"
+            "value": "P17_12"
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
